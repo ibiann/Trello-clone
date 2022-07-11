@@ -13,7 +13,7 @@ yarn install
 ## Usage
 
 ```python
-yarn install or npm install 
+yarn install / npm install 
 
 # client
 antd
