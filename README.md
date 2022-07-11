@@ -6,6 +6,7 @@ A simple trello clone with basic function and working test server with basic cal
 
 Use the package manager [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable) to install package
 
+
 ```bash
 yarn install
 ```
@@ -13,9 +14,9 @@ yarn install
 ## Usage
 
 ```python
-yarn install / npm install 
+yarn install or npm install 
 
-# client
+# Client
 antd
 mui
 ant-design/icons
@@ -31,16 +32,19 @@ react-smooth-dnd
 react-hook-form
 react-color
 
-* Other
+* Others
 prettier
 eslint
-
 ```
 
 ## Back End
+
+Using Express, MongoDb and babel nodejs for APi server
+
 ```python
-# server
-@babel
+# Server
+
+babel
 nodemon
 express
 joi
