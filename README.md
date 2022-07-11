@@ -32,7 +32,7 @@ react-smooth-dnd
 react-hook-form
 react-color
 
-* Others
+# Others
 prettier
 eslint
 ```
