@@ -17,8 +17,8 @@ yarn install or npm install
 
 # client
 antd
-@mui
-@ant-design/icons
+mui
+ant-design/icons
 axios
 autoprefixer
 html-react-parser
@@ -31,8 +31,7 @@ react-smooth-dnd
 react-hook-form
 react-color
 
-* Other package
-foobar.pluralize('goose')
+* Other
 prettier
 eslint
 
