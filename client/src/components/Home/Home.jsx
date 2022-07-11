@@ -15,11 +15,11 @@ const Home = () => {
               style={{ display: "flex", width: "60px", alignItems: "center" }}
               src={logo}
             />
-            <h2 style={{ alignItems: "center"}}>Merres</h2>
+            <h2 style={{ alignItems: "center"}}>Trello</h2>
           </div>
           <div className="header-top-right">
             <div className="">
-              <a href="#">Log in</a>
+              <a href="/login">Log in</a>
               <button
                 className="btn btn-primary"
                 type="submit"
@@ -41,7 +41,7 @@ const Home = () => {
       <div className="container">
         <div className="row" style={{ display: "flex", marginTop: "200px" }}>
           <div className="col-6">
-            <h1>Merres helps teams move work forward.</h1>
+            <h1>Trello helps teams move work forward.</h1>
             <p>
               Collaborate, manage projects, and reach new productivity peaks.{" "}
               <br />
